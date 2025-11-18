@@ -1,0 +1,21 @@
+{
+  "name": "AI Insights Blog",
+  "short_name": "AI Insights",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#667eea",
+  "description": "Latest viral news, trends, and insights in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Robotics, and Future Technology.",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/667eea/ffffff?text=AI",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/667eea/ffffff?text=AI",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
